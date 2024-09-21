@@ -1,0 +1,4 @@
+#Fri Sep 20 18:19:59 MDT 2024
+base.0=/Users/anthonymonte/Documents/GitHub/Assignment-Demos/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
