@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyHitbox : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other) {
-        if (other.CompareTag("PlayerBullet")) {
+        if (other.CompareTag("PlayerBullet") || other.CompareTag("Sword")) {
             Destroy(transform.parent.gameObject);
         }
     }
